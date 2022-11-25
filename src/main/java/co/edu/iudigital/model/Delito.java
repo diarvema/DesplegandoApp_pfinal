@@ -16,9 +16,7 @@ import javax.persistence.Table;
 @Table(name = "delitos")
 public class Delito implements Serializable{
 
-    /**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 6225803848687364814L;
 
 	//id INT NOT NULL AUTO_INCREMENT

@@ -19,9 +19,7 @@ import javax.persistence.Table;
 @Table(name = "casos")
 public class Caso implements Serializable {
 	
-    /**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 7509375994430053778L;
 
 	//id INT NOT NULL AUTO_INCREMENT,
